@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="link_register" type="id">link_register</item>
+    <item name="rv_notes" type="id">rv_notes</item>
+</resources>
